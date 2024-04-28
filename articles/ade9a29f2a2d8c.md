@@ -3,7 +3,7 @@ title: "Zenn記事をVSCodeから執筆・アウトプット！"
 emoji: "🙆"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["VSCode"]
-published: false
+published: true
 ---
 # 初めに
 エンジニアの皆さんが恐らく業務時間中は開いた状態になっているであろう、VSCodeで記事を作成・公開できたら多少は楽できる思いませんか？
